@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hello! I'm Rahul
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Hey,%20I'm%20Rahul&height=80&fontSize=40&desc=crafting%20ideas%20into%20code&descAlignY=75&descAlign=50"/>
 
-### I build things with code ✨
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DSA+Learner;Web+Developer;C%2B%2B+Programmer;Building+Projects+Everyday" alt="Typing SVG" />
