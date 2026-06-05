@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rahulchaauhaan/rahulchaauhaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Rahul 👋
 
-Here are some ideas to get you started:
+### B.Tech CSE @ NIT Calicut
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cpp id="lpnqce"
+while(alive){
+    eat();
+    code();
+    sleep();
+    repeat();
+}
+```
+
+</div>
+
+---
+
+## 🚀 About Me
+
+* 💻 Learning DSA & Web Development
+* 🌱 Currently exploring React
+* ⚡ Love building cool UI using CSS
+* 🎯 Goal: Become a Software Engineer
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchaauhaan\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaauhaan\&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+* DSA
+* React.js
+* DBMS
+* Backend Development
+
+---
+
+## 📂 Featured Projects
+
+* 🎨 Hybrid indoor-outdoor Navigation system for CSE department at NIT calicut
+* 📚 Library Management System
+
+
+---
+
+<div align="center">
+
+### Consistency > Motivation
+
+</div>
