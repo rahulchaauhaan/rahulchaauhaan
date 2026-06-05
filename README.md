@@ -23,16 +23,16 @@ while(alive){
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 💻 Learning DSA & Web Development
-* 🌱 Currently exploring React
+* Learning DSA & Web Development
+*  Currently exploring React
 
 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,nodejs,bootstrap,git,github,vscode,react,mysql" />
@@ -41,7 +41,7 @@ while(alive){
 
 
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 * DSA
 * React.js
@@ -49,10 +49,10 @@ while(alive){
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-* 🎨 Hybrid indoor-outdoor Navigation system for CSE department at NIT calicut
-* 📚 Library Management System
+* Hybrid indoor-outdoor Navigation system for CSE department at NIT calicut
+*  Library Management System
 
 
 ---
