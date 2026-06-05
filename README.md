@@ -1,19 +1,25 @@
 <div align="center">
 
-# Hello! I'm Rahul 👋
+# Hello! I'm Rahul
 
-### B.Tech CSE @ NIT Calicut
+### I build things with code ✨
 
-```cpp id="lpnqce"
+<br>
+
+B.Tech CSE @ NIT Calicut
+
+<br>
+
+```cpp id="h7olc8"
 while(alive){
-    eat();
-    code();
-    sleep();
-    repeat();
+    learn();
+    build();
+    improve();
 }
 ```
 
 </div>
+
 
 ---
 
@@ -21,36 +27,24 @@ while(alive){
 
 * 💻 Learning DSA & Web Development
 * 🌱 Currently exploring React
-* ⚡ Love building cool UI using CSS
-* 🎯 Goal: Become a Software Engineer
+
+
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,nodejs,bootstrap,git,github,vscode,react,mysql" />
 </p>
 
----
 
-## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulchaauhaan\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rahulchaauhaan\&theme=tokyonight)
-
----
 
 ## 🌱 Currently Learning
 
 * DSA
 * React.js
-* DBMS
 * Backend Development
 
 ---
