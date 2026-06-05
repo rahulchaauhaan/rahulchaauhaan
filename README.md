@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58A6FF&text=Hey,%20I'm%20Rahul&height=80&fontSize=40&desc=crafting%20ideas%20into%20code&descAlignY=75&descAlign=50"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=38&pause=100000&color=F75C7E&center=true&vCenter=true&width=600&height=100&lines=Hello!+I'm+Rahul"/>
+
+### crafting ideas into code ✨
 
 
 <p align="center">
@@ -8,11 +10,11 @@
 </p>
 
 
-<br>
+
 
 B.Tech CSE @ NIT Calicut
 
-<br>
+
 
 ```cpp id="h7olc8"
 while(alive){
